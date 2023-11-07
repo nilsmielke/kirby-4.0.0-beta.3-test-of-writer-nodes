@@ -1,0 +1,16 @@
+label: Text
+type: writer
+marks:
+  - bold
+  - italic
+  - "|"
+  - link
+headings:
+  - 2
+  - 3
+toolbar:
+  inline: true
+nodes:
+  - heading
+  - bulletList
+  - orderedList
